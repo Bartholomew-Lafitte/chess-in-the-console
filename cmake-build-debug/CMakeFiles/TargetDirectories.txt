@@ -1,0 +1,3 @@
+C:/Users/dmski/chess-in-the-console/cmake-build-debug/CMakeFiles/chess_in_the_console.dir
+C:/Users/dmski/chess-in-the-console/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dmski/chess-in-the-console/cmake-build-debug/CMakeFiles/rebuild_cache.dir
